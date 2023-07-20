@@ -1,0 +1,23 @@
+
+main{
+    height:calc(100vh - 100px) ;
+    background-color: #006C67;
+    margin-top: 100px;
+    padding-top: 2rem;
+}
+nav{
+    height: 100px;
+    position: fixed;
+    top: 0;
+    margin-bottom: 0;
+}
+.logo{
+    width: 500px;
+    height: 100px;
+}
+.logo img{
+    width: 200px;
+}
+img{
+    max-width: 100%;
+}
